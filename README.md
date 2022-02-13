@@ -5,4 +5,4 @@ This project is a simple re-creation of the Unity tutorial on DOTS tech stack wh
 - C# Job System which provides a way to run game code in parallel on multiple CPU cores
 - Burst compiler which is a new math-aware, backend compiler used to produce highly optimized machine code
 
-Refer to Unity tutorials here.
+Refer to Unity tutorials [here](https://github.com/UnityTechnologies/DOTS_Pong)
